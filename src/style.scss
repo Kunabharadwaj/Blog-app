@@ -108,6 +108,18 @@ $lightGreen: #b9e7e7;
       }
     }
 
+    // Footer
+
+    footer{
+        margin-top: 100px;
+        padding: 20px;
+        background-color: $lightGreen;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 12px;
+    }
+
   }
     
   
